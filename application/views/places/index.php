@@ -7,7 +7,7 @@
 <input type="text" name="query" placeholder="Dentista"/>
 
 <label for="key">API KEY(Google Maps)</label>
-<input type="text" name="key" placeholder="AIzaSyA6IyL73y4ryYZ00Dnw-T5o8NiMQDcAZUE" value="AIzaSyA6IyL73y4ryYZ00Dnw-T5o8NiMQDcAZUE"/>
+<input type="text" name="key" placeholder="" value=""/>
 
 <input type="submit" name="submit" value="Buscar lugares" />
 <?php echo form_close(); ?>
