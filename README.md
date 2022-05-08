@@ -6,4 +6,4 @@ Parameters:
 - Query = Text used to search places in Google Maps
 
 Return:
-- Table with information about places searched.
+- Table with information about searched places.
